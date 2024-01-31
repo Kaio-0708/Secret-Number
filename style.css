@@ -121,9 +121,9 @@ button:disabled {
         font-size: 50px;
     }
     img {
-        max-width: auto;
-        widht: auto;
-        height: auto;
+        max-width: 767px;
+        widht: 200px;
+        height: 200px;
     }
     
     .container__botao {
