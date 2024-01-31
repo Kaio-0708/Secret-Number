@@ -103,7 +103,9 @@ button {
 
 img {
     opacity: 0.7;
+    max-width: 100%;
 }
+
 .texto__paragrafo {
     font-size: 32px;
     font-weight: 400;
@@ -113,7 +115,7 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 600px) {
 
     h1 {
         font-size: 50px;
