@@ -115,12 +115,15 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
+@media screen and (max-width: 767px) {
 
     h1 {
         font-size: 50px;
     }
-
+    img {
+        max-width: 700px;
+    }
+    
     .container__botao {
         font-size: 16px;
     }
