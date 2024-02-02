@@ -104,6 +104,8 @@ button {
 img {
     opacity: 0.7;
     max-width: 100%;
+    width: 558;
+    height: 650;
 }
 
 .texto__paragrafo {
