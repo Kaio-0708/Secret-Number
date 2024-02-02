@@ -115,11 +115,16 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
-
+@media screen and (max-width: 768px) {
+    body::before {
+        background-position: center;
+        background-size: cover;
+    }
+    
     h1 {
         font-size: 50px;
     }
+    
     img {
         max-width: 200px;
         width: 100%;
