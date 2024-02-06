@@ -90,6 +90,14 @@ body::before {
     gap: 2em;
 }
 
+.container__imagem-pessoa {
+    background-image: url("img/jogo.png");
+    background-size: cover; /* ou 'contain', dependendo do comportamento desejado */
+    background-repeat: no-repeat;
+    width: 558px; /* Largura desejada */
+    height: 650px; /* Altura desejada */
+}
+
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
