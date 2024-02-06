@@ -90,14 +90,6 @@ body::before {
     gap: 2em;
 }
 
-.container__imagem-pessoa {
-    background-image: url("./jogo.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 558px; 
-    height: 650px; 
-}
-
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
