@@ -91,11 +91,11 @@ body::before {
 }
 
 .container__imagem-pessoa {
-    background-image: url("img/jogo.png");
-    background-size: cover; /* ou 'contain', dependendo do comportamento desejado */
+    background-image: url("./jogo.png");
+    background-size: cover;
     background-repeat: no-repeat;
-    width: 558px; /* Largura desejada */
-    height: 650px; /* Altura desejada */
+    width: 558px; 
+    height: 650px; 
 }
 
 h1 {
