@@ -103,7 +103,7 @@ button {
 
 img {
     opacity: 0.7;
-    background: url(./jogo.png);
+    background: url('./jogo.png');
     background-size: 558px 650px;
 }
 
