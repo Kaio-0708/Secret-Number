@@ -30,5 +30,8 @@ O projeto é composto pelos seguintes arquivos:
 1. Clone este repositório.
 2. Abra o arquivo `index.html` no seu navegador.
 
+## Autor
+
+Kaio Vitor - [GitHub](https://github.com/Kaio-0708)
 
 Site: https://secretnumberkv.netlify.app/
